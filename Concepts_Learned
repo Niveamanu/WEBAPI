@@ -1,0 +1,13 @@
+Learned the folder structure of web api solution
+The flow of the program 
+Dependency Injection
+Learned about the behaviours of Controllers, Domain, DTOs, Repositories 
+Navigation property
+DB Migration and Data seeding
+Asynchronous methods
+Interfaces
+Validations 
+Implementations of AutoMapping 
+Authentication and authorization using OAuth2
+Generating JWT Token for a valid user
+testing API using postman, swagger
